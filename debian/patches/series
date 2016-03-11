@@ -1,2 +1,3 @@
 0001-Don-t-use-duplicated-modules.patch
 0002-Don-t-use-duplicated-modules-in-tests.patch
+0003-remove-docutils-dep.patch
